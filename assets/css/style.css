@@ -4,6 +4,22 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 60px;
+    color: #03e9f4;
+    text-align: center;
+    text-align: center;
+    justify-self: center;
+    margin-top: -50%;
+    margin-right: -34%;
+    margin-block-end: -25%;
+    margin-inline: -17%;
+    margin-left: 8%;
+    
+}
+
 body{
     display: flex;
     align-items: center;
